@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(oxox DirectX Framework.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Windows.cpp
+  Game.cpp
+c:\users\inkycherry\desktop\rini\assets\game.cpp(31): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\inkycherry\desktop\rini\assets\game.cpp(34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\inkycherry\desktop\rini\assets\game.cpp(37): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\inkycherry\desktop\rini\assets\game.cpp(38): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\inkycherry\desktop\rini\assets\game.cpp(44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\inkycherry\desktop\rini\assets\game.cpp(47): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\inkycherry\desktop\rini\assets\game.cpp(48): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+c:\users\inkycherry\desktop\rini\assets\game.cpp(272): warning C4715: “Game::GetSquareState”: 不是所有的控件路径都返回值
+  oxox DirectX Framework.vcxproj -> C:\Users\inkycherry\Desktop\rini\Debug\a easy chess game.exe
+  oxox DirectX Framework.vcxproj -> C:\Users\inkycherry\Desktop\rini\Debug\a easy chess game.pdb (Partial PDB)
